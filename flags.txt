@@ -1,0 +1,11 @@
+{ Luffy }
+-> FLAG_1912245f868935872c43e1ef726bc38d
+
+{ Zoro }
+-> FLAG_023d3aaf90363ca35ee54bf8f894dc81
+
+{ Usopp }
+-> FLAG_5c0cf71f5e6f6f90b682d3f31238b906
+
+{ Nami }
+-> FLAG_a6c5ee7df3b480e8b8754e112c5d5d78
